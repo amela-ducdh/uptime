@@ -5,7 +5,11 @@ repo: uptime # Your Github repository name
 # Add your sites here
 sites:
   - name: Homepage
-    url: https://ducdh.com
+    url: http://ducdh.com
+  - name: Engo
+    url: http://engo.ducdh.com
+  - name: Youtube
+    url: http://youtube.ducdh.com  
 
 assignees: # Users to assign downtime issues (optional)
   - dhduc
